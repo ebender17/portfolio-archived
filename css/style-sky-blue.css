@@ -25,14 +25,19 @@ h6 {
 }
 
 a {
-  color: #1e1e1e;
+  color: #48abec;
   transition: all 0.5s ease-in-out;
+  /*color: #1e1e1e;
+  transition: all 0.5s ease-in-out;*/
 }
 
 a:hover {
-  color: #48abec;
+  color: #1c81c4; 
   text-decoration: none;
   transition: all 0.5s ease-in-out;
+  /*color: #48abec;
+  text-decoration: none;
+  transition: all 0.5s ease-in-out;*/
 }
 
 .p-r {
