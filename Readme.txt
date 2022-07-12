@@ -1,3 +1,5 @@
+Personal Portfolio Site currently under updates and new development.
+
 Personal Portfolio Site built by editing free bootstrap template. 
 
 Credit for template:
