@@ -1,4 +1,4 @@
-Personal Portfolio Site currently under updates and new development.
+Old Personal Portfolio Site.
 
 Personal Portfolio Site built by editing free bootstrap template. 
 
